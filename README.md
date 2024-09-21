@@ -1,6 +1,6 @@
 - 👋 Hi, I’m André
 - 👀 I'm interested in working with back-end
-- 🌱 I'm currently learning Django with Python and I'm at an advanced level
+- 🌱 I'm currently learning Django and I'm at an advanced level
 - 💞️ I'm looking to collaborate on challenging technology projects
 - 📫 How to reach me, instagram : https://www.instagram.com/andrew_22_____/
 - ⚡ Fun fact: God above all.
