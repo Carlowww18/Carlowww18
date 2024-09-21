@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Carlowww18
+- 👋 Hi, I’m André
 - 👀 I'm interested in working with back-end
 - 🌱 I'm currently learning Django with Python and I'm at an advanced level
 - 💞️ I'm looking to collaborate on challenging technology projects
